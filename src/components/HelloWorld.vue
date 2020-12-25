@@ -40,7 +40,7 @@
           直到现在，我们都在学习新知识……<br /><br /><br />
         </p>
         <p class="subheading">
-          为此，我写了一首诗，用于庆祝今年的圣诞节，希望你喜欢……
+          为此，我写了一首诗，用于庆祝今年的圣诞节，希望你喜欢……（诗中有彩蛋哦）
         </p>
         <br /><v-divider></v-divider><br />
         <h1 class="font-weight-bold mb-3">
